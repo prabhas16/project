@@ -1,0 +1,1 @@
+Smart Emotion Recognition for Personalized Mental Health Support uses AI to detect emotions from facial expressions, speech, and text. It applies deep learning models to analyze user inputs in real time. Based on detected emotions, the system provides personalized suggestions, helping improve mental well-being and early support.
